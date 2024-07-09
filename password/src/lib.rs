@@ -1,3 +1,5 @@
-mod utils;
+mod cli;
+mod process;
 
-pub use utils::process_password;
+pub use cli::Args;
+pub use process::process_password;

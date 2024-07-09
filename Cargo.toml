@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "password",
+    "base64",
+]
+
+resolver = "2"
+

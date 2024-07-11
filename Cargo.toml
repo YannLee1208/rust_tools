@@ -2,6 +2,7 @@
 members = [
     "password",
     "base64",
+    "csv_transformer"
 ]
 
 resolver = "2"

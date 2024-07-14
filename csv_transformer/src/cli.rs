@@ -34,4 +34,3 @@ impl Display for OutputFormat {
 pub fn parse_output_format(format: &str) -> anyhow::Result<OutputFormat> {
     OutputFormat::from_str(format)
 }
-

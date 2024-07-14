@@ -2,8 +2,8 @@
 members = [
     "password",
     "base64",
-    "csv_transformer"
+    "csv_transformer",
+    "http-fs"
 ]
 
 resolver = "2"
-
